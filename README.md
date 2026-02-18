@@ -10,6 +10,13 @@ Implemented OSPF routing protocol for dynamic route advertisement
 
 Configured 9 VLANs across 3 floors (IT, Admin, HR, Finance, Sales, Reception, Store, Logistics)
 
+<img src="./images/first_floor.png" alt="First Floor(Reception, Store and Logistics)">
+
+<img src="./images/second_floor.png" alt="First Floor(Finance, HR and Sales)">
+
+<img src="./images/third_floor.png" alt="First Floor(It and Admin)">
+
+
 Implemented Inter-VLAN routing
 
 Configured DHCP on routers for automatic IP assignment
