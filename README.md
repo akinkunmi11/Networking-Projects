@@ -4,6 +4,8 @@ I recently designed and implemented a full enterprise network for a 3-floor hote
 
 Designed a 3-router topology interconnected via Serial DCE links
 
+<img src="./images/full" alt="Full hotel architecture design">
+
 Implemented OSPF routing protocol for dynamic route advertisement
 
 Configured 9 VLANs across 3 floors (IT, Admin, HR, Finance, Sales, Reception, Store, Logistics)
